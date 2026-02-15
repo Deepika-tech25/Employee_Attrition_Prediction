@@ -2,8 +2,10 @@
 # Employee Attrition Prediction System
 
 ## Live Streamlit App
-[Click here to use the app] https://employeeattritionprediction-2025aa05609-deepika.streamlit.app/
-
+[Click here to use the app]
+```
+https://employeeattritionprediction-2025aa05609-deepika.streamlit.app/
+```
 ---
 
 ## Problem Statement
@@ -172,4 +174,5 @@ This project successfully developed and deployed a Machine Learning system to pr
 
 This solution can help organizations identify at-risk employees and improve retention strategies.
 ```
+
 
