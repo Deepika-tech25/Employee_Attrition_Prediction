@@ -132,7 +132,6 @@ streamlit run app.py
 ```
 ---
 Project Structure
-```
 
 employee-attrition-predictor/
 │
@@ -143,7 +142,6 @@ employee-attrition-predictor/
 ├── models/
 ├── dataset/
 
-```
 ---
 Conclusion
 
@@ -151,6 +149,7 @@ This project successfully developed and deployed a Machine Learning system to pr
 
 This solution can help organizations identify at-risk employees and improve retention strategies.
 ```
+
 
 
 
