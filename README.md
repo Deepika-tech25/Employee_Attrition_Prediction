@@ -115,7 +115,7 @@ To Run Locally
 Step 1: Clone repository
 ```
 
-git clone https://github.com/your-username/employee-attrition-predictor.git
+git clone https://github.com/Deepika-tech25/Employee_Attrition_Prediction.git
 
 ```
 Step 2: Install dependencies
@@ -149,6 +149,7 @@ This project successfully developed and deployed a Machine Learning system to pr
 
 This solution can help organizations identify at-risk employees and improve retention strategies.
 ```
+
 
 
 
